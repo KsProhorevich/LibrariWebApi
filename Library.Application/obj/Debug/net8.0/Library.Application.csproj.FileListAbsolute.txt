@@ -1,0 +1,15 @@
+D:\Лабы\ООПИП\Библиотека\Library.Application\bin\Debug\net8.0\Library.Application.deps.json
+D:\Лабы\ООПИП\Библиотека\Library.Application\bin\Debug\net8.0\Library.Application.dll
+D:\Лабы\ООПИП\Библиотека\Library.Application\bin\Debug\net8.0\Library.Application.pdb
+D:\Лабы\ООПИП\Библиотека\Library.Application\bin\Debug\net8.0\Library.Domain.dll
+D:\Лабы\ООПИП\Библиотека\Library.Application\bin\Debug\net8.0\Library.Domain.pdb
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\Library.Application.csproj.AssemblyReference.cache
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\Library.Application.AssemblyInfoInputs.cache
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\Library.Application.AssemblyInfo.cs
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\Library.Application.csproj.CoreCompileInputs.cache
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\Library..D137A66B.Up2Date
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\Library.Application.dll
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\refint\Library.Application.dll
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\Library.Application.pdb
+D:\Лабы\ООПИП\Библиотека\Library.Application\obj\Debug\net8.0\ref\Library.Application.dll
